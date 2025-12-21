@@ -1,12 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
-import tkinter as tk
 import time
-
-window = tk.Tk()
-window.title("Cookie Clicker Bot")
-window.geometry("300x150")
 
 options = Options()
 options.add_experimental_option("detach", True)
