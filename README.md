@@ -63,21 +63,21 @@ Updates to be expected:
 - And more!
 
 ## Releases
-_v1.01:_
-<br>GUI update
+### v1.1.0
+GUI update
 
 - Added GUI using tkinter
   - On/off switch
   - Ctrl+D keybind
   - Logs
 
-_v1.00:_
-<br>Initial release
+### v1.0.0
+Initial release
 
 - Added automated upgrade purchases
 - Added automated English language selection
 
-_Beta:_
+### Beta
 <br>Made with [Haxmas Day 8 tutorial](https://haxmas.hackclub.com)
 
 - Added automated cookie clicking
