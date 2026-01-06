@@ -78,7 +78,7 @@ Initial release
 - Added automated English language selection
 
 ### Beta
-<br>Made with [Haxmas Day 8 tutorial](https://haxmas.hackclub.com)
+Made with [Haxmas Day 8 tutorial](https://haxmas.hackclub.com)
 
 - Added automated cookie clicking
 - Added automated building purhcases
